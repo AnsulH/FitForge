@@ -1,0 +1,14 @@
+.body-Women{
+    display: inline;
+    padding: 3vh;
+}
+#obliques{
+    background-color: rgb(227, 0, 0) !important;
+    color: aqua !important;
+}
+#calfs{
+    color: rgb(246, 246, 246);
+}
+#hairs{
+    color: black;
+}

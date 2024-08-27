@@ -1,0 +1,28 @@
+
+
+.body-Men{
+    display: inline;
+}
+
+#hairs{
+    color: rgba(0, 0, 0, 0.907) !important;
+}
+#reardelts,#lowerback,#hip,#hamstring,#calfs,#innerthigh,#lats{
+    background-color: rgb(227, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
+}
+#obl,#triceps,#biceps,#chest,#shoulder,#traps,#forearms,#abs,#quads,#innerthighs,#anterlistablialis{
+    background-color: rgb(227, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+#chest:hover,#triceps:hover,#obl:hover,#biceps:hover,#shoulder:hover,#traps:hover,#forearms:hover,#abs:hover,#quads:hover,#innerthighs:hover,#anterlistablialis:hover,#reardelts:hover,#lowerback:hover,#hip:hover,#hamstring:hover,#calfs:hover,#innerthigh:hover,#lats:hover{
+    color: rgba(126, 34, 206, 0.412) !important;
+}
+@media screen and (max-width: 767px){
+    .body-Men{
+        align-items: center !important;
+        justify-content: center;
+    }
+}
+
